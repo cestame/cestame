@@ -1,4 +1,4 @@
-- hello all! i am ame, a 16 yo programmer :) 
+- hello all! i am ame, a 16 yo artist and programming enthusiast :) 
 
 <!---
 cestame/cestame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
